@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     description: siteDescription,
     images: [
       {
-        url: "/images/og.jpg",
+        url: "/images/og.png",
         width: 1200,
         height: 600,
         alt: "GitQR preview",
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "GitQR",
     description: siteDescription,
-    images: ["/images/og.jpg"],
+    images: ["/images/og.png"],
   },
   robots: {
     index: true,

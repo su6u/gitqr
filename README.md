@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/images/og.jpg" width="780" alt="GitQR playground preview" />
+<img src="public/images/og.png" width="780" alt="GitQR playground preview" />
 
 <br /><br />
 
